@@ -1,0 +1,15 @@
+galaxy_info:
+  role_name: kubectl
+  author: Ben Tse
+  description: Kubernetes command-line tool, kubectl.
+  license: MIT
+  min_ansible_version: 2.4
+  platforms:
+    - name: EL
+      versions:
+        - 7
+  galaxy_tags:
+    - kubernetes
+    - kubectl
+
+dependencies: []
