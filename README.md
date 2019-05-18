@@ -1,5 +1,5 @@
-Ansible Role - Docker CE - CentOS
-=================================
+Ansible Role - Kubernetes kubectl - CentOS
+==========================================
 
 [![Build Status](https://travis-ci.org/bt5e/ansible-role-kubectl.svg?branch=master)](https://travis-ci.org/bt5e/ansible-role-kubectl)
 
